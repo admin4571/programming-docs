@@ -7,6 +7,9 @@
   http://www.eclemma.org/
   http://www.eclipse.org/egit/
 
+## 3. Create account in GitHub 
+  https://github.com/join?source=header-home
+
 # __B. Application installations__
 
 ## 1. FRC Suite
