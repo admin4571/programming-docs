@@ -1,4 +1,4 @@
-# A. Programming installations :
+# __A. Programming installations__
 
 ## 1. Install Java, Eclipse and Eclipse plugins ( WPILib )
   https://wpilib.screenstepslive.com/s/4485/m/13503/l/599679-installing-eclipse-c-java
@@ -7,12 +7,12 @@
   http://www.eclemma.org/
   http://www.eclipse.org/egit/
 
-# B. Application installations
+# __B. Application installations__
 
 ## 1. FRC Suite
   https://wpilib.screenstepslive.com/s/4485/m/13503/l/599670-installing-the-frc-2016-update-suite-all-languages
 
-# C. Working with roboRIO ( control system )
+# __C. Working with roboRIO ( control system )__
 
 ## 1. Updating roboRIO
   https://wpilib.screenstepslive.com/s/4485/m/13503/l/273817-updating-your-roborio-firmware
@@ -26,11 +26,11 @@
 ## 4. roboRIO networking
   https://wpilib.screenstepslive.com/s/4485/m/13503/l/242608-roborio-networking
 
-# D. Setting up the Driver station
+# __D. Setting up the Driver station__
 
   https://wpilib.screenstepslive.com/s/4485/m/13503/l/599677-frc-driver-station-powered-by-ni-labview
 
-# E. Running FRC Benchmark programs :
+# __E. Running FRC Benchmark programs__
 
 ## 1. Tethered
 https://wpilib.screenstepslive.com/s/4485/m/13503/l/146462-running-your-benchtop-test-program-tethered
