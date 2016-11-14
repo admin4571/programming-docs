@@ -42,6 +42,10 @@ https://wpilib.screenstepslive.com/s/4485/m/13503/l/146463-running-your-benchtop
 
 ---
 
+### Complete list of software installations are here
+https://wpilib.screenstepslive.com/s/4485/m/13503/l/144981-2016-frc-software-component-overview
 
-### Paraphrased from
+---
+
+### Document paraphrased from
 https://wpilib.screenstepslive.com/s/4485/m/13503
