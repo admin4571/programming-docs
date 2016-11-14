@@ -7,7 +7,7 @@
   http://www.eclemma.org/
   http://www.eclipse.org/egit/
 
-## 3. Create account in GitHub 
+## 3. Create account in GitHub
   https://github.com/join?source=header-home
 
 # __B. Application installations__

@@ -18,6 +18,7 @@
 ---
 
 ## Stage 1 : Programming 101
+https://github.com/admin4571/programming-docs/blob/master/programming-101.md
 
 ## Stage 2 : Programming 201
 
@@ -28,7 +29,7 @@
 ## Stage 4 : Clean up, write tests and optimize previous years robots
 https://github.com/frc4571
 
-## Stage 5 : Previous years robots
+## Stage 5 :
 
 ---
 
