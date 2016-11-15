@@ -16,10 +16,7 @@
 * Using EGit plugin (Eclipse) : http://eclipsesource.com/blogs/tutorials/egit-tutorial/
 
 ### 4. Watch video on Autonomous programming in FRC
-
-<a href="https://www.youtube.com/watch?v=8319J1BEHwM" target="">
-  <img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
-</a>
+[Introduction to Autonomous in FRC](https://www.youtube.com/watch?v=8319J1BEHwM)
 
 ---
 
