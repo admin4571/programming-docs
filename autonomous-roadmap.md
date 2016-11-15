@@ -3,6 +3,7 @@
 ---
 
 ## PRE-REQUISITES :
+
 ### 1. Learn Java :
     https://www.udacity.com/course/java-programming-basics--ud282
     https://www.learneroo.com/modules/11
@@ -24,6 +25,8 @@
 https://github.com/admin4571/programming-docs/blob/master/programming-101.md
 
 ## Stage 2 : Programming 201
+Follow all the steps and create the project as per
+https://wpilib.screenstepslive.com/s/4485/m/13809/c/88893?data-resolve-url=true&data-manual-id=13809
 
 ## Stage 3 : Running FRC Benchmark Programs on RoboRio
 * Setup steps B,C,D in https://github.com/admin4571/programming-docs/blob/master/software-setup.md
@@ -32,11 +35,23 @@ https://github.com/admin4571/programming-docs/blob/master/programming-101.md
 ## Stage 4 : Clean up, write tests and optimize previous years robots
 https://github.com/frc4571
 
-## Stage 5 :
-
 ---
 
-## Additional Resources:
+## Additional programming resources:
 * Testing in Java (Junit) : https://www.tutorialspoint.com/junit/index.htm
 * Continuous Integration ( Travis CI ) : https://docs.travis-ci.com/user/getting-started/
 * Dockerized deployment : https://www.docker.com/
+
+---
+
+## Example programs :
+* Flywheel shooter ( On -> 10 seconds power -> Off ) :
+* Use sensors to vary flywheel revolutions :
+
+---
+
+## Advanced Autonomous resources :
+
+* Talend vs Victor : http://www.ctr-electronics.com/control-system/talon-srx.html
+* Using Robo builder :
+* Motion profiling
