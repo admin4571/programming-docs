@@ -2,9 +2,9 @@
 
 ---
 
-## PRE-REQUISITES :
+## PRE-REQUISITES
 
-### 1. Learn Java :
+### 1. Learn Java
     https://www.udacity.com/course/java-programming-basics--ud282
     https://www.learneroo.com/modules/11
     https://www.ktbyte.com/coder#pset/99/439/hello-world
@@ -16,11 +16,19 @@
 * Simple GitHub tutorial : https://guides.github.com/activities/hello-world/
 * Using EGit plugin (Eclipse) : http://eclipsesource.com/blogs/tutorials/egit-tutorial/
 
-### 4. Watch video on Autonomous programming in FRC
-[Introduction to Autonomous in FRC](https://www.youtube.com/watch?v=8319J1BEHwM)
+---
+
+## LEARNING AUTONOMOUS
+
+### 1. Basic introduction to Autonomous programming
+  * Using PID controllers : http://www.simbotics.org/files/pdf/programming-pid.pdf
+
+### 2. Advanced Autonomous programming in FRC
+  * [Introduction to Autonomous in FRC](https://www.youtube.com/watch?v=8319J1BEHwM)
 
 ---
-## THE ROAD TO AUTONOMOUS
+
+## PROGRAMMING AUTONOMOUS
 
 ### Stage 1 : Programming 101
 https://github.com/admin4571/programming-docs/blob/master/programming-101.md
