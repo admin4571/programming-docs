@@ -51,7 +51,18 @@ https://github.com/frc4571
 * Using Smart Dashboard
 * Understanding PID controllers
   * http://www.codeproject.com/Articles/36459/PID-process-control-a-Cruise-Control-example
-
+  * Advanced Java concepts for Autonomous ( https://www.javacodegeeks.com/2015/09/advanced-java.html )
+    * Exception Handling
+    * Multithreading/Concurrency
+    * Design patterns
+    * Recursion
+    * JDBC connectivity
+    * Garbage collection
+    * Object modeling ( Interfaces/Abstract classes etc )
+    * Generics
+    * Serialization
+    * Reflection
+    
 ---
 
 ## EXAMPLE AUTONOMOUS PROGRAMS
@@ -66,16 +77,5 @@ https://github.com/frc4571
 * Testing in Java (Junit) : https://www.tutorialspoint.com/junit/index.htm
 * Continuous Integration ( Travis CI ) : https://docs.travis-ci.com/user/getting-started/
 * Dockerized deployment : https://www.docker.com/
-* Advanced Java concepts for Autonomous ( https://www.javacodegeeks.com/2015/09/advanced-java.html )
-  * Exception Handling
-  * Multithreading/Concurrency
-  * Design patterns
-  * Recursion
-  * JDBC connectivity
-  * Garbage collection
-  * Object modeling ( Interfaces/Abstract classes etc )
-  * Generics
-  * Serialization
-  * Reflection
 
 ---
