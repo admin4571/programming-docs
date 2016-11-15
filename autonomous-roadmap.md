@@ -51,14 +51,22 @@ https://github.com/frc4571
 
 ## AUTONOMOUS RESOURCES
 
-* Talend vs Victor : http://www.ctr-electronics.com/control-system/talon-srx.html
+* Typical Subsystems for Autonomous
+  * Vision tracking ( http://wpiroboticsprojects.github.io/GRIP/#/ )
+  * Shooting
+  * Motion
+  * Elevator system
+* Controllers
+  * Talend vs Victor : http://www.ctr-electronics.com/control-system/talon-srx.html
+  * Understanding PID controllers : http://www.codeproject.com/Articles/36459/PID-process-control-a-Cruise-Control-example
 * Motion profiling
   * Trapezoid motion : http://www.baldormotion.com/support/SupportMe/Downloads/DocsLib/an00115-001%20-%20Trapezoidal%20Move%20Calculations.pdf
-* Trajectory planning : http://www.diag.uniroma1.it/~deluca/rob1_en/13_TrajectoryPlanningJoints.pdf
-* Using Robo builder
-* Using Smart Dashboard
-* Understanding PID controllers
-  * http://www.codeproject.com/Articles/36459/PID-process-control-a-Cruise-Control-example
+  * Trajectory planning : http://www.diag.uniroma1.it/~deluca/rob1_en/13_TrajectoryPlanningJoints.pdf
+* FRC SDK
+  * RoboBuilder : https://wpilib.screenstepslive.com/s/4485/m/26402
+  * Smart Dashboard : https://wpilib.screenstepslive.com/s/4485/m/26401
+  * GRIP : https://wpilib.screenstepslive.com/s/4485/m/50711
+  * FRCSim ( Simulator for Autonomous ) : https://wpilib.screenstepslive.com/s/4485/m/23353/c/84464
 * Advanced Java concepts for Autonomous ( https://www.javacodegeeks.com/2015/09/advanced-java.html )
   * Exception Handling
   * Multithreading/Concurrency
@@ -70,7 +78,7 @@ https://github.com/frc4571
   * Generics
   * Serialization
   * Reflection
-
+  
 ---
 
 ## EXAMPLE AUTONOMOUS PROGRAMS
