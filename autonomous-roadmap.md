@@ -25,8 +25,11 @@
 https://github.com/admin4571/programming-docs/blob/master/programming-101.md
 
 ## Stage 2 : Programming 201
-Follow all the steps and create the project as per
-https://wpilib.screenstepslive.com/s/4485/m/13809/c/88893?data-resolve-url=true&data-manual-id=13809
+* What is WPILib? Follow the full tutorial through the "Next Step->" instructions at bottom of page
+  https://wpilib.screenstepslive.com/s/4485/m/13809/l/599696-what-is-wpilib
+
+* Follow all the steps and create the base project as per
+  https://wpilib.screenstepslive.com/s/4485/m/13809/c/88893?data-resolve-url=true&data-manual-id=13809
 
 ## Stage 3 : Running FRC Benchmark Programs on RoboRio
 * Setup steps B,C,D in https://github.com/admin4571/programming-docs/blob/master/software-setup.md
@@ -41,7 +44,18 @@ https://github.com/frc4571
 * Testing in Java (Junit) : https://www.tutorialspoint.com/junit/index.htm
 * Continuous Integration ( Travis CI ) : https://docs.travis-ci.com/user/getting-started/
 * Dockerized deployment : https://www.docker.com/
-
+* Advanced Java concepts for Autonomous ( https://www.javacodegeeks.com/2015/09/advanced-java.html )
+  * Exception Handling
+  * Multithreading/Concurrency
+  * Design patterns
+  * Recursion
+  * JDBC connectivity
+  * Garbage collection
+  * Object modeling ( Interfaces/Abstract classes etc )
+  * Generics
+  * Serialization
+  * Reflection
+  
 ---
 
 ## Example programs :
@@ -51,7 +65,8 @@ https://github.com/frc4571
 ---
 
 ## Advanced Autonomous resources :
-
 * Talend vs Victor : http://www.ctr-electronics.com/control-system/talon-srx.html
 * Using Robo builder :
-* Motion profiling
+* Motion profiling :
+  Trapezoid motion : http://www.baldormotion.com/support/SupportMe/Downloads/DocsLib/an00115-001%20-%20Trapezoidal%20Move%20Calculations.pdf
+* Trajectory planning : http://www.diag.uniroma1.it/~deluca/rob1_en/13_TrajectoryPlanningJoints.pdf
