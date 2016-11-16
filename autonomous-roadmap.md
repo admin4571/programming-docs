@@ -1,5 +1,9 @@
 # Autonomous Roadmap
 
+## MISSION STATEMENT
+
+### >> Be the best autonomous team in FRC
+
 ---
 
 ## PRE-REQUISITES
@@ -78,7 +82,7 @@ https://github.com/frc4571
   * Generics
   * Serialization
   * Reflection
-  
+
 ---
 
 ## EXAMPLE AUTONOMOUS PROGRAMS

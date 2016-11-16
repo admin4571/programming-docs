@@ -1,6 +1,8 @@
 # Software Infrastructure Roadmaps
 
-Mission Statement :
+## MISSION STATEMENT
+
+### >> Provide best-in-class software platforms for 4571 to be the best team in FRC
 
 ---
 
