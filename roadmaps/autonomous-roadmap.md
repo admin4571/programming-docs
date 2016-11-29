@@ -4,6 +4,10 @@
 
 ### >> Be the best autonomous team in FRC
 
+#### Home of Autonomous
+
+https://github.com/frc4571
+
 ---
 
 ## PRE-REQUISITES
@@ -38,25 +42,46 @@
 https://github.com/admin4571/programming-docs/blob/master/programming-101.md
 
 ### Stage 2 : Programming 201
+
 * What is WPILib? Follow the full tutorial through the "Next Step->" instructions at bottom of page
   https://wpilib.screenstepslive.com/s/4485/m/13809/l/599696-what-is-wpilib
+
+* Understanding FRC Robot programming ( Command based programming )
+  http://wpilib.screenstepslive.com/s/4485/m/13809/c/88893
 
 * Follow all the steps and create the base project as per
   https://wpilib.screenstepslive.com/s/4485/m/13809/c/88893?data-resolve-url=true&data-manual-id=13809
 
 ### Stage 3 : Running FRC Benchmark Programs on RoboRio
-* Setup steps B,C,D in https://github.com/admin4571/programming-docs/blob/master/software-setup.md
-* Follow steps E in  https://github.com/admin4571/programming-docs/blob/master/software-setup.md
 
-### Stage 4 : Clean up, write tests and optimize previous years robots
-https://github.com/frc4571
+* Creating the benchtop test project
+  http://wpilib.screenstepslive.com/s/4485/m/13809/l/145307-creating-your-benchtop-test-program
+
+* Building and downloading a robot project to the roboRIO
+  http://wpilib.screenstepslive.com/s/4485/m/13809/l/242586-building-and-downloading-a-robot-project-to-the-roborio
+
+* Viewing console output and debugging
+
+  http://wpilib.screenstepslive.com/s/4485/m/13809/l/599746-viewing-console-output
+  http://wpilib.screenstepslive.com/s/4485/m/13809/l/242588-debugging-a-robot-program
+
+### Stage 4 : Integrate physical hardware components like actuators and sensors
+
+* Actuator overview
+http://wpilib.screenstepslive.com/s/4485/m/13809/c/88897
+
+* Sensor overview
+http://wpilib.screenstepslive.com/s/4485/m/13809/c/88895
 
 ---
 
 ## AUTONOMOUS RESOURCES
 
 * Typical Subsystems for Autonomous
-  * Vision tracking ( http://wpiroboticsprojects.github.io/GRIP/#/ )
+  * Vision tracking
+    * Basics :  https://www.youtube.com/watch?v=2EboyI9zAUM&feature=youtu.be
+    * http://wpiroboticsprojects.github.io/GRIP/#/
+    * Pixy Cam : http://charmedlabs.com/default/pixy-cmucam5/
   * Shooting
   * Motion
   * Elevator system
