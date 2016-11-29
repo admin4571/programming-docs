@@ -38,10 +38,11 @@ https://github.com/frc4571
 
 ## PROGRAMMING AUTONOMOUS
 
-### Stage 1 : Programming 101
+### Stage 1 : Programming 101 - Basic Java programming
+
 https://github.com/admin4571/programming-docs/blob/master/programming-101.md
 
-### Stage 2 : Programming 201
+### Stage 2 : Programming 201 - Using WPILib
 
 * What is WPILib? Follow the full tutorial through the "Next Step->" instructions at bottom of page
   https://wpilib.screenstepslive.com/s/4485/m/13809/l/599696-what-is-wpilib
@@ -52,7 +53,7 @@ https://github.com/admin4571/programming-docs/blob/master/programming-101.md
 * Follow all the steps and create the base project as per
   https://wpilib.screenstepslive.com/s/4485/m/13809/c/88893?data-resolve-url=true&data-manual-id=13809
 
-### Stage 3 : Running FRC Benchmark Programs on RoboRio
+### Stage 3 : Programming 301 - Running FRC Benchmark Programs on RoboRio
 
 * Creating the benchtop test project
   http://wpilib.screenstepslive.com/s/4485/m/13809/l/145307-creating-your-benchtop-test-program
@@ -65,7 +66,7 @@ https://github.com/admin4571/programming-docs/blob/master/programming-101.md
   http://wpilib.screenstepslive.com/s/4485/m/13809/l/599746-viewing-console-output
   http://wpilib.screenstepslive.com/s/4485/m/13809/l/242588-debugging-a-robot-program
 
-### Stage 4 : Integrate physical hardware components like actuators and sensors
+### Stage 4 : Programming 401 - Integrate physical hardware components like actuators and sensors
 
 * Actuator overview
 http://wpilib.screenstepslive.com/s/4485/m/13809/c/88897
