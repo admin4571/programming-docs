@@ -84,7 +84,7 @@ http://wpilib.screenstepslive.com/s/4485/m/13809/c/88895
     * http://wpiroboticsprojects.github.io/GRIP/#/
     * Pixy Cam : http://charmedlabs.com/default/pixy-cmucam5/
   * Shooting
-  * Motion
+  * Motion : https://github.com/Team254/TrajectoryLib
   * Elevator system
 * Controllers
   * Talend vs Victor : http://www.ctr-electronics.com/control-system/talon-srx.html
