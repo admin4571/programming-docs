@@ -7,3 +7,5 @@
 # Team Organization
 
 1. Commit previous years code
+2. Set up email Server
+3. 
