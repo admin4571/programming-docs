@@ -8,4 +8,4 @@
 
 1. Commit previous years code
 2. Set up email Server
-3. 
+3. Connect frc4571.com
