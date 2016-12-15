@@ -18,6 +18,8 @@ List of good robot projects : https://github.com/flamingchickens1540/frc-softwar
 
 Vision processing ( Raspberry Pi, Arduino, GRIP )
 
+* https://www.chiefdelphi.com/forums/showthread.php?t=152336
+
 * https://github.com/WPIRoboticsProjects/GRIP/wiki/Running-GRIP-on-a-Raspberry-Pi-2
 
 * https://www.chiefdelphi.com/forums/showthread.php?t=147187
