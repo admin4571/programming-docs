@@ -15,3 +15,9 @@ Read how to program Omniwheels
 Simple autonomous robot project : https://github.com/FRC1360/Stronghold2016/tree/master/src/main/java/org/usfirst/frc/team1360/robot
 
 List of good robot projects : https://github.com/flamingchickens1540/frc-software-releases
+
+Vision processing ( Raspberry Pi, Arduino, GRIP )
+
+* https://github.com/WPIRoboticsProjects/GRIP/wiki/Running-GRIP-on-a-Raspberry-Pi-2
+
+* https://www.chiefdelphi.com/forums/showthread.php?t=147187
