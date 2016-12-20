@@ -18,8 +18,8 @@
   - Spike H-Bridge Relay
 
 ### Solenoids ( Operate pneumatic cylinders )
-    - Single Solenoid
-    - Double Solenoid
+  - Single Solenoid
+  - Double Solenoid
 
 ## Sensors
 
