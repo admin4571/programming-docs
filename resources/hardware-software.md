@@ -17,13 +17,13 @@
 ### Relays ( Control solenoids, lights, custom circuits )(???)
   - Spike H-Bridge Relay
 
+### Solenoids ( Operate pneumatic cylinders )
+    - Single Solenoid
+    - Double Solenoid
+
 ## Sensors
 
 ![alt text](https://github.com/frc4571/programming-docs/raw/master/images/sensors.JPG "FRC Sensors")
-
-### Solenoids ( Operate pneumatic cylinders )
-  - Single Solenoid
-  - Double Solenoid
 
 ### Counting Sensors ( Rotations, Pulses etc )
   - Gear Tooth Sensor [ Direction sensing ]
