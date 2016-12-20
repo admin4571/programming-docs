@@ -31,9 +31,6 @@
   - Encoders [ Rate of rotation, distance wheel has turned ]
     - Optical Encoder (Quadrature Encoders) { Assigned to FPGA module based on type of encoding }
 
-### Power distribution
-  - Power Distribution Panel
-
 ### Direction Sensors ( Direction of robot movement )
   - Gyro
     - Analog Gyro
@@ -59,9 +56,11 @@
 
 # DETAILS
 
-## Speed controllers
+## Actuators
 
-### What are speed controllers?
+### Speed controllers
+
+#### What are speed controllers?
 
 https://en.wikipedia.org/wiki/Electronic_speed_control
 
@@ -70,8 +69,6 @@ https://en.wikipedia.org/wiki/Electronic_speed_control
 #### Victors v/s Talons vs/ Jaguar
 
 https://content.vexrobotics.com/vexpro/pdf/Victor-SP-Talon-SRX-Info-Sheet-20140819.pdf
-
-## Sensors
 
 ### Solenoids
 
@@ -82,6 +79,8 @@ https://en.wikipedia.org/wiki/Solenoid
 #### Single solenoid vs Double solenoid
 
 https://www.chiefdelphi.com/forums/showthread.php?t=33594
+
+## Sensors
 
 ### Speed Sensors
 
