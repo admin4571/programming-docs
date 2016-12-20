@@ -11,8 +11,8 @@
   - Jaguars
 
 ### Motors ( Moves the attached component )(???)
-    - Servos
-    - Steppers
+  - Servos
+  - Steppers
 
 ### Relays ( Control solenoids, lights, custom circuits )(???)
   - Spike H-Bridge Relay
@@ -121,14 +121,14 @@ http://www.analog.com/media/en/technical-documentation/data-sheets/ADXRS450.pdf
 
 - Spike H-Bridge Relay : http://www.vexrobotics.com/217-0220.html
 
-## Appendix
+# Appendix
 
-### CAN
+## CAN
 
 - https://en.wikipedia.org/wiki/CAN_bus
 - http://www.ni.com/white-paper/2732/en/
 
-#### CAN Devices
+### CAN Devices
 
 - Jaguar speed controllers
 - CAN-Talon speed controllers
